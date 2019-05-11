@@ -3,3 +3,4 @@ Debug/
 MyDxLibGame2D.vcxproj.user
 *.db
 Release/
+Log.txt
